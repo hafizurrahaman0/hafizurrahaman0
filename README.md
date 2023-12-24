@@ -6,19 +6,22 @@
 Hi there, I'm <a href="https://twitter.com/hafizurrahaman0" target="_blank" rel="noreferrer">Hafizur Rahaman</a> 👋
 </h3>
 
-Hi, I’m Hafizur Rahaman, a student who is passionate about web development. I enjoy learning new things and challenging myself with web development projects.
+Hi, I’m Hafizur Rahaman, a student who is passionate about web development. I enjoy learning new things and challenge myself with the new topic what I've learnt.
+If you want to collaborate with me on some project you can contact me from the given link below
 
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hafizurrahaman0)
 
 ## 🔭 I'm currently working on
 
 - My old projects on frontendmentor
-- My next blog
-- My CSS skill
+- JavaScript
+- Basic React App
 
 ## 🌱 I'm currently learning
 
 - JavaScript
-- Bootstrap
+- ReactJS
 
 ## 📈 GitHub Stats 
 
