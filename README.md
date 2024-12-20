@@ -4,7 +4,6 @@
 ## 🚀 About Me
 I'm a passionate learner and developer, currently pursuing **Full-Stack Web Development** with a strong focus on building user-friendly and efficient web applications. I enjoy exploring new technologies and turning ideas into reality. 💻
 
----
 
 ## 🛠️ Tech Stack
 - **Frontend**:  
@@ -17,15 +16,6 @@ I'm a passionate learner and developer, currently pursuing **Full-Stack Web Deve
 - **Programming**:  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafizurrahaman0&show_icons=true&theme=radical" alt="Hafizur's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizurrahaman0&theme=radical" alt="Hafizur's GitHub Streak Stats" width="48%"/>
-</div>
-
----
 
 ## 📫 Let's Connect!
 Feel free to reach out to me for collaboration
